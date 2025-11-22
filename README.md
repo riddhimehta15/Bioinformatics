@@ -198,6 +198,12 @@ Exact numbers will depend on:
 
 ---
 
+## Contributors
+- **[Riddhi Mehta](https://github.com/riddhimehta15)**
+- **[Nirvisha Soni](https://github.com/Nirvisha82)**
+
+---
+
 ## Acknowledgements
 
 This project is inspired by:
@@ -211,7 +217,4 @@ We also acknowledge the authors and maintainers of:
 
 ---
 
-## Contributors
-- **[Riddhi Mehta](https://github.com/riddhimehta15)**
-- **[Nirvisha Soni](https://github.com/Nirvisha82)**
 
