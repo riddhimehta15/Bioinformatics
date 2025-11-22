@@ -213,8 +213,4 @@ This project is inspired by:
 We also acknowledge the authors and maintainers of:
 - **UniProtKB/Swiss-Prot**, for curated protein sequence data  
 - **NCBI BLAST+**, for PSI-BLAST and PSSM generation  
-- **scikit-learn**, **NumPy**, **pandas**, and **matplotlib** for model implementation and analysis  
-
----
-
-
+- **scikit-learn**, **NumPy**, **pandas**, and **matplotlib** for model implementation and analysis
