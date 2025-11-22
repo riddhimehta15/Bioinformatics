@@ -9,7 +9,7 @@ The implementation uses:
 - **AAC**: Global amino-acid composition features  
 - **Random Forests** for binary protein-level RBP vs non-RBP classification  
 
-Contributors: **Nirvisha Soni** and **Riddhi Mehta**
+Contributors: **Riddhi Mehta** and **Nirvisha Soni**
 
 ---
 
