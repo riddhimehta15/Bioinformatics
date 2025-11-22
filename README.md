@@ -79,8 +79,8 @@ If you prefer not to re-run PSI-BLAST, you can:
 1. **Clone or download the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>/Bioinformatics
+   git clone https://github.com/riddhimehta15/Bioinformatics.git
+   cd Bioinformatics/Bioinformatics
    ```
 
 2. **Create and activate a virtual environment (optional but recommended)**
@@ -211,7 +211,7 @@ We also acknowledge the authors and maintainers of:
 
 ---
 
-## 👥 Contributors
+## Contributors
 - **[Riddhi Mehta](https://github.com/riddhimehta15)**
 - **[Nirvisha Soni](https://github.com/Nirvisha82)**
 
